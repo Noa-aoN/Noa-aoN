@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=475569&center=true&vCenter=true&width=320&height=28&lines=%F0%9F%8C%B1+%F0%9F%8C%B1+%F0%9F%8C%B1;%F0%9F%8C%B1+%F0%9F%8C%B1;%F0%9F%8C%B1+%F0%9F%8C%B1+%F0%9F%8C%B1;%F0%9F%8C%B1+%F0%9F%8C%B1;%F0%9F%8C%B1+%F0%9F%8C%B1+%F0%9F%8C%B1" alt="Plant animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=475569&center=true&vCenter=true&width=320&height=28&lines=%F0%9F%8C%B1+%F0%9F%8C%B1+%F0%9F%8C%B1" alt="Plant animation" />
 
 # NOA
 
@@ -29,5 +29,5 @@ Embedded-to-web engineer building indie products.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=475569&center=true&vCenter=true&width=320&height=28&lines=%F0%9F%8C%B1+%F0%9F%8C%B1+%F0%9F%8C%B1;%F0%9F%8C%B1+%F0%9F%8C%B1;%F0%9F%8C%B1+%F0%9F%8C%B1+%F0%9F%8C%B1;%F0%9F%8C%B1+%F0%9F%8C%B1;%F0%9F%8C%B1+%F0%9F%8C%B1+%F0%9F%8C%B1" alt="Plant animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=475569&center=true&vCenter=true&width=320&height=28&lines=%F0%9F%8C%B1+%F0%9F%8C%B1+%F0%9F%8C%B1" alt="Plant animation" />
 </div>
